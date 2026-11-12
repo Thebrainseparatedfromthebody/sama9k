@@ -4,7 +4,7 @@
 <img width="150" height="20" alt="invader zim blinki" src="https://github.com/user-attachments/assets/8a42940d-7d95-40d7-8373-18ebd962ea18" />
 
 
-<img width="1024" height="338" alt="sama9k-7-21-2026" src="https://github.com/user-attachments/assets/f53627cf-c8cd-45e1-afef-1ec19311483e" />
+
 
 
 
